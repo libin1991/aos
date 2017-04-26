@@ -1,3 +1,5 @@
+#还有一个强大的动画库插件anime.js#
+
 [![AOS - Animate on scroll library](https://s32.postimg.org/ktvt59hol/aos_header.png)](http://michalsnik.github.io/aos/)
 
 [![NPM version](https://img.shields.io/npm/v/aos.svg?style=flat)](https://npmjs.org/package/aos)
